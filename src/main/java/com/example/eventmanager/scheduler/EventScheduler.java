@@ -1,4 +1,4 @@
-package com.example.eventmanager.Scheduler;
+package com.example.eventmanager.scheduler;
 
 import com.example.eventmanager.model.Event;
 import com.example.eventmanager.repository.EventRepository;
